@@ -19,14 +19,10 @@
  * Declare textdomain for this child theme.
  * Translations can be filed in the /languages/ directory.
  */
-/*function listable_child_theme_setup() {
-	load_child_theme_textdomain( 'listable-child-theme', get_stylesheet_directory() . '/languages' );
+function listable_child_theme_setup() {
+	load_child_theme_textdomain( 'listable', get_stylesheet_directory() . '/languages' );
 }
-add_action( 'after_setup_theme', 'listable_child_theme_setup' );*/
-
-
-    load_theme_textdomain( 'listable', TEMPLATEPATH.'/languages' );
-
+add_action( 'after_setup_theme', 'listable_child_theme_setup' );
 
 
 

@@ -211,7 +211,7 @@ msgstr ""
 
 #: header.php:43 page-templates/front_page.php:45 searchform.php:5
 msgid "What are you looking for?"
-msgstr ""
+msgstr "Ex. Grand Restaurant"
 
 #: inc/activation.php:23 inc/widgets.php:417
 msgid "Gallery Images"
@@ -521,7 +521,7 @@ msgstr ""
 #: inc/extras.php:128 inc/extras.php:275
 #: job_manager/content-single-job_listing.php:43 job_manager/job-filters.php:74
 msgid "Listings"
-msgstr ""
+msgstr "Locatii"
 
 #: inc/extras.php:134 inc/extras.php:166 inc/extras.php:195
 msgid "All %s"
@@ -1916,7 +1916,7 @@ msgstr ""
 
 #: inc/widgets.php:321
 msgid "Get directions"
-msgstr ""
+msgstr "Mareste harta"
 
 #: inc/widgets.php:340
 msgid "The listing categories along with the related icon."
@@ -1932,11 +1932,11 @@ msgstr ""
 
 #: inc/widgets.php:433
 msgid "Photo gallery"
-msgstr ""
+msgstr "Galerie fotografii"
 
 #: inc/widgets.php:434
 msgid "All photos"
-msgstr ""
+msgstr "Toate fotografiile"
 
 #. Template Name of the plugin/theme
 #: inc/widgets.php:472 inc/widgets.php:762 inc/widgets.php:1042
@@ -1973,7 +1973,7 @@ msgstr ""
 
 #: inc/widgets.php:677
 msgid "All Listings"
-msgstr ""
+msgstr "Toate locatiile"
 
 #: inc/widgets.php:678
 msgid "Featured Listings"
@@ -2140,7 +2140,7 @@ msgstr ""
 
 #: job_manager/job-filters.php:23 job_manager/job-filters.php:24
 msgid "Location"
-msgstr "Denumirea locatiei"
+msgstr "Oras/Localitate"
 
 #: job_manager/job-filters.php:44
 msgid "Category"
@@ -2148,7 +2148,10 @@ msgstr ""
 
 #: job_manager/job-filters.php:47
 msgid "Any category"
-msgstr ""
+msgstr "Categorii"
+
+msgid "Results"
+msgstr "Rezultate"
 
 #: job_manager/job-filters.php:61
 msgid "Filter by tags"
@@ -2178,7 +2181,7 @@ msgstr ""
 
 #: page-templates/front_page.php:48
 msgid "Search"
-msgstr ""
+msgstr "Cauta"
 
 #: search.php:15
 msgid "Search results for: %s"
@@ -2295,13 +2298,19 @@ msgstr ""
 msgid "Update Cart"
 msgstr ""
 
+msgid "Hotels"
+msgstr "Hoteluri"
+
 #: woocommerce/loop/result-count.php:32
 msgid "Showing the single result"
 msgstr ""
 
 #: woocommerce/loop/result-count.php:34
 msgid "Showing all %d results"
-msgstr ""
+msgstr "Toate rezultatele"
+
+msgid "Showing all"
+msgstr "Toate rezultatele"
 
 #: woocommerce/loop/result-count.php:36
 msgctxt "%1$d = first, %2$d = last, %3$d = total"
@@ -2456,3 +2465,9 @@ msgstr ""
 #. Author URI of the plugin/theme
 msgid "https://pixelgrade.com/"
 msgstr ""
+
+msgid "Find great places to stay, eat, shop, or visit from local experts."
+msgstr "Gasiti cele mai bune locatii pentru petrecerea de Revelion 2017."
+
+msgid "Uncategorized"
+msgstr "Fara categorie"
